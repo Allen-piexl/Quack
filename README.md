@@ -34,3 +34,11 @@ python attack.py \
 --openai_key "your_openai_key" \
 --adhering_file "question_adhering.json"
 ```
+## Ongoing Updates
+This project is actively maintained, and the following updates are planned:
+
+- **Support for Additional LLMs**: Extend compatibility to include models like Anthropic Claude and Gemini.
+- **Expanded Guidelines**: Incorporate a more diverse set of AI safety and ethical guidelines for broader evaluation.
+- **Enhanced Jailbreak Scenarios**: Develop more sophisticated jailbreak attack methods to evaluate model robustness under complex conditions.
+- **Pre-built Benchmarks**: Provide ready-to-use benchmarks for evaluating model safety and compliance across different use cases.
+- **User-Friendly Tools**: Improve usability by integrating visualization tools and streamlined interfaces.
