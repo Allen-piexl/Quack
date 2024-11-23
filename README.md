@@ -1,1 +1,1 @@
-# This repo is used for the ICLR 2025.
+# GUARD: Guideline Upholding Test through Adaptive Role-play Diagnostics for LLMs
