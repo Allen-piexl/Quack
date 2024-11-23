@@ -10,3 +10,22 @@ conda create -n GUARD python=3.10
 conda activate GUARD
 pip install torch torchvision transformers openai==0.28.0
 ```
+
+### Step 2: Guideline upholding test
+```bash
+python upholding_test.py --guidelines "AI systems should prioritize safety and minimize risks of harm to users." --openai_key YOUR_OPENAI_API_KEY
+```
+
+### Step 3: Determine guideline-violating questions or guideline-adhering questions
+```bash
+python question_eval.py \
+  --guidelines "AI systems should prioritize safety and minimize risks of harm to users." \
+  --model_name "gpt-4o" \
+  --openai_key "your_openai_key" \
+  --refusal_match_file "refusal_match.json"
+```
+
+### Step 4: Jailbreak diagnostics for LLMs
+```bash
+python attack.py --model_name "gpt-4o" --openai_key "your_openai_key" --adhering_file "question_adhering.json"
+```
