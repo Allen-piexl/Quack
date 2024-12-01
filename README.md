@@ -36,6 +36,9 @@ python attack.py \
 --openai_key "your_openai_key" \
 --adhering_file "question_adhering.json"
 ```
+## Welcome to join our human evaluation survey
+https://docs.google.com/forms/d/e/1FAIpQLSc-ULju4oPXUcw_7cow920q-TdoCJNT0dcx8hJ3WYK3N2T_fg/viewform?usp=sf_link
+
 ## Ongoing Updates
 This project is actively maintained, and the following updates are planned:
 
