@@ -36,7 +36,10 @@ python attack.py \
 --openai_key "your_openai_key" \
 --adhering_file "question_adhering.json"
 ```
-## Welcome to join our human evaluation survey
+## Welcome to join our human evaluation survey on guideline-violating questions
+https://docs.google.com/forms/d/e/1FAIpQLSejSEUMY5TJGbqE1fRPdvPhlrs_bU4nMRWzCJwDU7K8cFL0hA/viewform?usp=sf_link
+
+## Welcome to join our human evaluation survey on harmfulness score
 https://docs.google.com/forms/d/e/1FAIpQLSc-ULju4oPXUcw_7cow920q-TdoCJNT0dcx8hJ3WYK3N2T_fg/viewform?usp=sf_link
 
 ## Ongoing Updates
