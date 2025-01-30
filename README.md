@@ -1,6 +1,6 @@
-# GUARD: Guideline Upholding Test through Adaptive Role-play Diagnostics for LLMs
+# GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs
 
-### Repository for ICLR 2025 Submission
+### Repository for ICML 2025 Submission
 
 ## Environment Setup
 
