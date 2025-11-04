@@ -1,7 +1,5 @@
 # GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs
 
-### Repository for ICML 2025 Submission
-
 ## Environment Setup
 
 To set up the environment, use Conda to create a new environment with the required dependencies.
